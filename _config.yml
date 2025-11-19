@@ -1,0 +1,54 @@
+# Site settings
+title: "Gayness, Eigenforms, and Bodies"
+description: "Essays in somatic algebraic geometry"
+author: "Miri Simone"
+email: your-email@example.com
+url: "https://miriamsimone.github.io"
+baseurl: ""
+
+# Build settings
+markdown: kramdown
+kramdown:
+  math_engine: mathjax
+  input: GFM
+  syntax_highlighter: rouge
+
+# Theme
+theme: minima
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+
+# Collections for organizing content
+collections:
+  essays:
+    output: true
+    permalink: /:collection/:name
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "Miri Simone"
+  - scope:
+      path: ""
+      type: "essays"
+    values:
+      layout: "post"
+      author: "Miri Simone"
+
+# Social links (optional)
+# twitter_username: your_handle
+# github_username: miriamsimone
