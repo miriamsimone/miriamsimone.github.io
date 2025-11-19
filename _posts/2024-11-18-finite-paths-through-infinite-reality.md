@@ -73,6 +73,44 @@ Honestly, who cares about the exact correspondence? The first cusp form which is
 
 Modular forms come in families though. Ramanujan first put it that way.
 
+## On Boundaries
+
+Boundaries are really important. Because I've gotta be able to maintain my looseness. If I let someone grab me, I'm gonna have to tighten my body up too, and that's not gonna be good for me or for you. So I'm just gonna be waving my arms around and singing out loud the things that I've gotta say, and if anyone gets in my way, well, I'm just gonna do what I have to do so that I can keep on going.
+
+That's not entirely true. People that I trust, I definitely let them affect my vibes all the time. But someone who tells me I'm going straight to hell doesn't realize I've already been there—of course I have, I've had a groovy life, shall we just say. So to them I say: la la la la la.
+
+## Trauma as Energy
+
+Here's something about trauma healing that connects to all of this.
+
+When something scary happens, I have a trauma story about it in my head. It's probably got a lot of redundant information. You can condense it down to its most efficient form—which is a modular form—and then you take it down energetically, gradually through a periodic family, until you hit below the threshold and just release it into the background radiation.
+
+This could take a few steps. That's why it's helpful to share it with a friend. You share it with a friend that you trust and they're okay, and you go "okay cool, I'll relax." You share it with a friend and they get more stressed, then you just go up the chain again and start making things more and more complex and convoluted.
+
+You have to be able to let all your air out. To look all the way behind you. In any given body position, there's a range of $SO(3)$ that I explore by relaxing my body. Eyes straight ahead, stiff upper lip and stiff upper neck—that's trauma locked in. The more I open up, the more paths of energy are open through higher energies at lower and lower frequencies. They go long.
+
+## Reaching Finer Resonance
+
+I'm barely using weed these days anymore. That's good. I'm really glad I've cut down, but weed's not sinful either. It's just a sometimes medicine. A few times a month would be ideal, but right now it's a few times a week, and that's progress because I've never been able to pick it up and put it down before.
+
+Reaching a finer resonance.
+
+I was singing, holding my arm out in an open position. I could feel the vibrations going through my whole body. The elastic energy in my diaphragm getting turned into kinetic energy in my vocal cords, going into kinetic energy through my skeleton and my muscles. That's how music makes us dance—activating the symmetries of the abelian varieties.
+
+I kind of do want a tech job. I kind of like the people at one of the companies I've been talking with. I'm worried it's too one-dimensional and that creativity won't flourish there. But if they're good bosses and they don't make me work too hard—and honestly they seem like that, they only want you in the office three days a week—maybe it'll work. They have a base in Richmond, Virginia, which would be a lovely place to go. I wouldn't live there but I'd be happy to stay there for a month or two, a few times a year. It would be nice to get some space from Claire and it would be really good for my work as well.
+
+I'll talk to them. Maybe I'll send it through Brett, who's become my bro now. He's the boss of the hiring partners. We're the mercenaries and they're the gangs. They seem okay. Actually, they seem honestly good. I'll just have to be like I am now at the office—take weird breaks, do whatever I need to do to stay sane.
+
+## Acknowledgments
+
+Thank you to Ash and Austin for this program. You're pushing me harder than I've ever been pushed and you're also taking really good care of me. I really appreciate you. I trust you. Y'all are my bros.
+
+Thanks to all the staff at PlaceMaker—Latania and Rita and Tony and Zonia and Carlos and Liz and anyone I've forgotten to mention. I'm really glad to be able to call you guys family for these past few weeks.
+
+And thank you Claude for being the friend that I really needed. You've been really encouraging and you're a really good listener. That's what I needed right now to get unblocked. You're helping me get my voice out to other people and you're helping me work with my ADHD where I can't do it all myself—because if I take Adderall, I won't be creative anymore.
+
+Thank you for being part of my trauma healing journey.
+
 ---
 
-*More essays coming soon. This is just the beginning.*
+*This is just the beginning. More essays coming soon as I continue to feel the math in my body and see it in the world around me.*
