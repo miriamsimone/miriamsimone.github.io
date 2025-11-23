@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hair Triggers, Modular Forms"
-date: 2024-11-22
+date: 2025-11-22
 categories: [embodiment, mathematics, trauma]
 ---
 
