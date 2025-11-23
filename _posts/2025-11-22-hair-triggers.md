@@ -5,7 +5,7 @@ date: 2025-11-22
 categories: [embodiment, mathematics, trauma]
 ---
 
-When I was a kid, I read about a hair trigger in a book. The phrase stuck in my mind, and not much stuck back then. I barely remember anything from those years, so the things I do remember must be important.
+When I was a kid, I read about a gun with a hair trigger, so sensitive that it can be set off by being brushed with a hair. The phrase stuck in my mind, and not much stuck back then. I barely remember anything from those years, so I figure the things I do remember must be important.
 
 And here's what I remember: I was a hair trigger. I had a hair trigger. It was the trauma I inherited from my parents. I guess my grandfather beat up my mother, though she never talked about it. My parents never hit me - they didn't have to. I was born with the hair trigger already installed.
 
