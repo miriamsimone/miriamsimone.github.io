@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Finite Paths Through Infinite Reality: A Theory of Resonance"
-date: 2024-11-18
+date: 2025-11-18
 reading_time: 12
 ---
 
