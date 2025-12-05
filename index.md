@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="home">
-    <p>A serial exploration of the resonances between mathematical structures, embodied experience, and queer being.</p>
+    <p>A serial exploration of the resonances between algebraic structures, somatic experiencing, and queer being.</p>
     
     <h2 style="margin-top: 3rem; margin-bottom: 1.5rem;">Notes</h2>
     
