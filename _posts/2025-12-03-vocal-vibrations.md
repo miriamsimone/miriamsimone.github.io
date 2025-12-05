@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Vocal Vibrations and the Geometry of Release"
-date: 2025-12-04
+date: 2025-12-03
 tags: [breath, embodiment, vocalization, cycles, shekinah]
 ---
 
