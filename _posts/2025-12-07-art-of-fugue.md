@@ -1,4 +1,3 @@
-# 
 ---
 layout: post
 title: "Art of the Fugue and Zero-Knowledge Proofs"
